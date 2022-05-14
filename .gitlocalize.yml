@@ -4,3 +4,7 @@ synchronize:
     exclude:
         - "Pol/*"
         - "autodiff.ipynb"
+      include:
+       - "Pol/*"
+       - "autodiff.ipynb"
+
