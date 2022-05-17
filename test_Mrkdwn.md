@@ -104,8 +104,6 @@ to Implement](https://github.com/ampproject/amphtml/issues/4264)_.
 
 ### Boilerplate <a name="boilerplate"></a>
 
-AMPHTML ad creatives require a different, and considerably simpler, boilerplate style line than [general AMP documents do](https://github.com/ampproject/amphtml/blob/master/spec/amp-boilerplate.md):
-
 [sourcecode:html]
 <style amp4ads-boilerplate>
   body {
